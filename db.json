@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Pad Thai",
+        "category": "Entree",
+        "price": 12.99,
+        "description": "Stir-fried rice noodle dish with eggs, tofu, and shrimp.",
+        "ingredients": ["rice noodles", "eggs", "tofu", "shrimp", "bean sprouts", "peanuts"],
+        "calories": 600,
+        "img": "pad-thai.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vegan Tom Yum Soup",
+        "category": "Appetizer",
+        "price": 8.99,
+        "description": "Hot and sour Thai soup with shrimp.",
+        "ingredients": ["lemongrass", "lime leaves", "galangal", "mushrooms"],
+        "calories": 200,
+        "img": "vegan-tom-yum-soup.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Green Curry",
+        "category": "Entree",
+        "price": 13.99,
+        "description": "Spicy green curry with chicken and vegetables.",
+        "ingredients": ["chicken", "green curry paste", "coconut milk", "bamboo shoots", "eggplant"],
+        "calories": 550,
+        "img": "green-curry.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mango Sticky Rice",
+        "category": "Dessert",
+        "price": 6.99,
+        "description": "Sweet sticky rice with fresh mango.",
+        "ingredients": ["sticky rice", "mango", "coconut milk", "sugar"],
+        "calories": 300,
+        "img": "mango-sticky-rice.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Thai Iced Tea",
+        "category": "Drink",
+        "price": 3.99,
+        "description": "Sweet and creamy iced tea.",
+        "ingredients": ["black tea", "sugar", "evaporated milk"],
+        "calories": 150,
+        "img": "thai-iced-tea.webp"
+    },
+    {
+        "id": 6,
+        "name": "Spring Rolls",
+        "category": "Appetizer",
+        "price": 5.99,
+        "description": "Crispy rolls filled with vegetables and glass noodles.",
+        "ingredients": ["rice paper", "glass noodles", "carrots", "cabbage", "mushrooms"],
+        "calories": 250,
+        "img": "spring-rolls.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Massaman Curry",
+        "category": "Entree",
+        "price": 14.99,
+        "description": "Mild curry with beef and potatoes.",
+        "ingredients": ["beef", "massaman curry paste", "coconut milk", "potatoes", "peanuts"],
+        "calories": 700,
+        "img": "massaman-curry.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Papaya Salad",
+        "category": "Appetizer",
+        "price": 7.99,
+        "description": "Spicy salad made from shredded unripe papaya.",
+        "ingredients": ["papaya", "chilies", "lime", "fish sauce", "peanuts"],
+        "calories": 180,
+        "img": "papaya-salad.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Thai Basil Chicken",
+        "category": "Entree",
+        "price": 12.99,
+        "description": "Stir-fried chicken with Thai basil and chilies.",
+        "ingredients": ["chicken", "Thai basil", "chilies", "garlic", "soy sauce"],
+        "calories": 500,
+        "img": "thai-basil-chicken.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Coconut Ice Cream",
+        "category": "Dessert",
+        "price": 4.99,
+        "description": "Creamy coconut-flavored ice cream.",
+        "ingredients": ["coconut milk", "sugar", "cream"],
+        "calories": 250,
+        "img": "coconut-ice-cream.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Thai Coffee",
+        "category": "Drink",
+        "price": 3.99,
+        "description": "Strong coffee with sweetened condensed milk.",
+        "ingredients": ["coffee", "sweetened condensed milk"],
+        "calories": 120,
+        "img": "thai-coffee.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Chicken Satay",
+        "category": "Appetizer",
+        "price": 6.99,
+        "description": "Grilled chicken skewers served with peanut sauce.",
+        "ingredients": ["chicken", "peanut sauce", "coconut milk", "spices"],
+        "calories": 350,
+        "img": "chicken-satay.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Red Curry",
+        "category": "Entree",
+        "price": 13.99,
+        "description": "Spicy red curry with beef and vegetables.",
+        "ingredients": ["beef", "red curry paste", "coconut milk", "bamboo shoots", "bell peppers"],
+        "calories": 600,
+        "img": "red-curry.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Fried Bananas",
+        "category": "Dessert",
+        "price": 5.99,
+        "description": "Deep-fried bananas served with honey.",
+        "ingredients": ["bananas", "flour", "honey"],
+        "calories": 400,
+        "img": "fried-bananas.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Thai Lemonade",
+        "category": "Drink",
+        "price": 2.99,
+        "description": "Refreshing lemonade with a hint of lime.",
+        "ingredients": ["lemon", "lime", "sugar", "water"],
+        "calories": 100,
+        "img": "thai-lemonade.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Larb",
+        "category": "Appetizer",
+        "price": 8.99,
+        "description": "Spicy minced meat salad.",
+        "ingredients": ["minced pork", "lime", "fish sauce", "chilies", "mint"],
+        "calories": 300,
+        "img": "larb.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Yellow Curry",
+        "category": "Entree",
+        "price": 13.99,
+        "description": "Mild yellow curry with chicken and potatoes.",
+        "ingredients": ["chicken", "yellow curry paste", "coconut milk", "potatoes", "carrots"],
+        "calories": 550,
+        "img": "yellow-curry.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Thai Chicken Wings",
+        "category": "Appetizer",
+        "price": 9.99,
+        "description": "Crispy chicken wings with Thai spices.",
+        "ingredients": ["chicken wings", "Thai spices", "fish sauce", "garlic"],
+        "calories": 400,
+        "img": "thai-chicken-wings.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Thai Fish Cakes",
+        "category": "Appetizer",
+        "price": 7.99,
+        "description": "Spicy fish cakes served with sweet chili sauce.",
+        "ingredients": ["fish", "red curry paste", "green beans", "lime leaves"],
+        "calories": 250,
+        "img": "thai-fish-cakes.webp"
+    },
+    {
+        "id": 20,
+        "name": "Thai Fried Rice",
+        "category": "Entree",
+        "price": 11.99,
+        "description": "Fried rice with chicken, vegetables, and egg.",
+        "ingredients": ["rice", "chicken", "egg", "carrots", "peas"],
+        "calories": 500,
+        "img": "thai-fried-rice.jpg"
+    }
+]
