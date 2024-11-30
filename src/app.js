@@ -28,6 +28,11 @@ app.use(cors(corsOptions));
 // Serve static files from the "public" directory
 app.use('/public', express.static(path.join(__dirname, 'public')));
 
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+  }
+);  
+
 app.get('/meals', auth , async (req, res) => {
     const dao = new PlatesDAO();
     const data = await dao.getPlates();
